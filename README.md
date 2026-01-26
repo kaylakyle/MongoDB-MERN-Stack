@@ -243,5 +243,3 @@ By completing this project, you will learn:
 - [PLP MERN Stack Program](https://plp.com/)
 
 **Happy Coding! 🚀**
-
-*Built with ❤️ by PLP MERN Stack Development - July Cohort*
