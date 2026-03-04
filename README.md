@@ -193,15 +193,15 @@ const taskStats = await Task.aggregate([
 
 By completing this project, you will learn:
 
-- ✅ How to connect Node.js to MongoDB using Mongoose
-- ✅ Creating and defining data schemas
-- ✅ Implementing CRUD operations
-- ✅ Using environment variables for configuration
-- ✅ Data seeding and population strategies
-- ✅ Basic MongoDB aggregation pipelines
-- ✅ Best practices for database operations
+-  How to connect Node.js to MongoDB using Mongoose
+-  Creating and defining data schemas
+-  Implementing CRUD operations
+-  Using environment variables for configuration
+-  Data seeding and population strategies
+-  Basic MongoDB aggregation pipelines
+-  Best practices for database operations
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -235,13 +235,13 @@ By completing this project, you will learn:
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 - [MongoDB Official Documentation](https://docs.mongodb.com/)
 - [Mongoose ODM Documentation](https://mongoosejs.com/docs/)
 - [Node.js Documentation](https://nodejs.org/docs/)
 - [PLP MERN Stack Program](https://plp.com/)
 
-**Happy Coding! 🚀**
+**Happy Coding! **
 
 *Built with ❤️ by PLP MERN Stack Development - July Cohort*
