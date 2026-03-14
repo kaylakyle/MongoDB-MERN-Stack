@@ -170,8 +170,8 @@ Before running this project, ensure you have:
 ```javascript
 // Create a user
 const user = await User.create({
-  name: "John Doe",
-  email: "john@example.com"
+  name: "Lynn Stac",
+  email: "stacy@example.com"
 });
 
 // Find all users
@@ -189,7 +189,7 @@ const taskStats = await Task.aggregate([
 ]);
 ```
 
-## 🎓 Learning Objectives
+##  Learning Objectives
 
 By completing this project, you will learn:
 
@@ -201,7 +201,7 @@ By completing this project, you will learn:
 -  Basic MongoDB aggregation pipelines
 -  Best practices for database operations
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -235,13 +235,13 @@ By completing this project, you will learn:
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 - [MongoDB Official Documentation](https://docs.mongodb.com/)
 - [Mongoose ODM Documentation](https://mongoosejs.com/docs/)
 - [Node.js Documentation](https://nodejs.org/docs/)
 - [PLP MERN Stack Program](https://plp.com/)
 
-**Happy Coding! 🚀**
+**Happy Coding! **
 
 *Built with ❤️ by PLP MERN Stack Development - July Cohort*
